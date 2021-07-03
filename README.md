@@ -1,0 +1,5 @@
+-  👋 Hi, I’m @ridhwanaw
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on Project of Web Development or just some problem solving problems
+- 📫 You can just reach me by sending me message here or on linkedin Ridhwan Athallah Wicaksono
